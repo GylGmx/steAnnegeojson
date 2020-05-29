@@ -1,0 +1,209 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "nom": "Gare Routière",
+        "ligne": "Ligne(s) 23, 24, 25, A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.881338119506836,
+          14.433682758369484
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "nom": "Bourg de Sainte-Anne / Mairie",
+        "ligne": "ligne(s) 23, 24, 25, A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.8809907734394,
+          14.435070495079152
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "nom": "Baréto",
+        "ligne": "ligne(s) 24, 25,, A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.865679383277886,
+          14.442976597867036
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "nom": "Mondésir",
+        "ligne": "Ligne(s) 24, 25, 1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.86282551288605,
+          14.44937010803597
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "nom": "Poirier",
+        "ligne": "Ligne(s) 24, 25, 26, 27"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.85890680551529,
+          14.462542263248803
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "nom": "Barrière La Croix",
+        "ligne": "ligne(s) 24, 26"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.851930379867554,
+          14.463329217339629
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "nom": "Cap Chevalier",
+        "ligne": "Ligne(s) 24, 26"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.830225944519036,
+          14.436166002224796
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "nom": "Cap Ferré / Belle Languette",
+        "ligne": "ligne(s) 25, 26"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.83260774612426,
+          14.466783471294368
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "nom": "Cap Cabaret",
+        "ligne": "Ligne(s) 24, 26"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.83909869194031,
+          14.448633753341824
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "nom": "Fond Repos",
+        "ligne": "Ligne(s) 24, 26"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.835225582122796,
+          14.45622834916712
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "nom": "Caritan",
+        "ligne": "Ligne(s) 23"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.88825151324272,
+          14.424318394055808
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "nom": "Plage des Salines",
+        "ligne": "Ligne(s) 23"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.87712436914443,
+          14.403063333499103
+        ]
+      }
+    }
+  ]
+}
