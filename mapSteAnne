@@ -8,7 +8,7 @@
         "marker-size": "medium",
         "marker-symbol": "",
         "nom": "Gare Routière",
-        "ligne": "Ligne(s) 23, 24, 25, A"
+        "ligne": "23, 24, 25, A"
       },
       "geometry": {
         "type": "Point",
@@ -25,7 +25,7 @@
         "marker-size": "medium",
         "marker-symbol": "",
         "nom": "Bourg de Sainte-Anne / Mairie",
-        "ligne": "ligne(s) 23, 24, 25, A"
+        "ligne": "23, 24, 25, A"
       },
       "geometry": {
         "type": "Point",
@@ -42,7 +42,7 @@
         "marker-size": "medium",
         "marker-symbol": "",
         "nom": "Baréto",
-        "ligne": "ligne(s) 24, 25,, A"
+        "ligne": "24, 25, A"
       },
       "geometry": {
         "type": "Point",
@@ -59,7 +59,7 @@
         "marker-size": "medium",
         "marker-symbol": "",
         "nom": "Mondésir",
-        "ligne": "Ligne(s) 24, 25, 1"
+        "ligne": "24, 25, A"
       },
       "geometry": {
         "type": "Point",
@@ -76,7 +76,7 @@
         "marker-size": "medium",
         "marker-symbol": "",
         "nom": "Poirier",
-        "ligne": "Ligne(s) 24, 25, 26, 27"
+        "ligne": "24, 25, 26, 27"
       },
       "geometry": {
         "type": "Point",
@@ -93,7 +93,7 @@
         "marker-size": "medium",
         "marker-symbol": "",
         "nom": "Barrière La Croix",
-        "ligne": "ligne(s) 24, 26"
+        "ligne": "24, 26"
       },
       "geometry": {
         "type": "Point",
@@ -110,7 +110,7 @@
         "marker-size": "medium",
         "marker-symbol": "",
         "nom": "Cap Chevalier",
-        "ligne": "Ligne(s) 24, 26"
+        "ligne": "24, 26"
       },
       "geometry": {
         "type": "Point",
@@ -127,7 +127,7 @@
         "marker-size": "medium",
         "marker-symbol": "",
         "nom": "Cap Ferré / Belle Languette",
-        "ligne": "ligne(s) 25, 26"
+        "ligne": "25, 26"
       },
       "geometry": {
         "type": "Point",
@@ -144,7 +144,7 @@
         "marker-size": "medium",
         "marker-symbol": "",
         "nom": "Cap Cabaret",
-        "ligne": "Ligne(s) 24, 26"
+        "ligne": "24, 26"
       },
       "geometry": {
         "type": "Point",
@@ -161,7 +161,7 @@
         "marker-size": "medium",
         "marker-symbol": "",
         "nom": "Fond Repos",
-        "ligne": "Ligne(s) 24, 26"
+        "ligne": "24, 26"
       },
       "geometry": {
         "type": "Point",
@@ -178,7 +178,7 @@
         "marker-size": "medium",
         "marker-symbol": "",
         "nom": "Caritan",
-        "ligne": "Ligne(s) 23"
+        "ligne": "23"
       },
       "geometry": {
         "type": "Point",
@@ -195,7 +195,7 @@
         "marker-size": "medium",
         "marker-symbol": "",
         "nom": "Plage des Salines",
-        "ligne": "Ligne(s) 23"
+        "ligne": "23"
       },
       "geometry": {
         "type": "Point",
