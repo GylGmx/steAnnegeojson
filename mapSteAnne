@@ -24,7 +24,7 @@
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
-        "nom": "Bourg de Sainte-Anne / Mairie",
+        "nom": "Bourg de Sainte-Anne",
         "ligne": "23, 24, 25, A"
       },
       "geometry": {
@@ -194,7 +194,7 @@
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
-        "nom": "Plage des Salines",
+        "nom": "Salines Plage",
         "ligne": "23"
       },
       "geometry": {
